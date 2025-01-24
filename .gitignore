@@ -1,0 +1,36 @@
+# Composer dependencies
+/vendor/
+
+# Vtiger specific directories
+/cache/
+/modules/Settings/Profiles/fields/
+/modules/Settings/Profiles/roles/
+logs/
+
+# Environment files (if any)
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+/tmp/
+
+# Database backups (if included)
+*.sql
+
+# IDE files
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup and export files
+export/
+
+# Session files
+/sessions/
+
+# Composer lock file (if not versioning the lock file)
+composer.lock
