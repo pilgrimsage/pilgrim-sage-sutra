@@ -215,6 +215,7 @@
 			<div class="loginDiv widgetHeight">
 				<img class="img-responsive user-logo" src="layouts/v7/resources/Images/vtiger.png">
 				<div>
+					<span class="{if !$OTP_ERROR}hide{/if} failureMessage" id="validationMessage">{$OTP_ERROR}</span>
 					<span class="{if !$ERROR}hide{/if} failureMessage" id="validationMessage">{$MESSAGE}</span>
 					<span class="{if !$MAIL_STATUS}hide{/if} successMessage">{$MESSAGE}</span>
 				</div>

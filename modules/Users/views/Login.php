@@ -89,6 +89,10 @@ class Users_Login_View extends Vtiger_View_Controller {
 			$message = 'Mail has been sent to your inbox, please check your e-mail';
 		}
 
+		$error = $_SESSION['otp_error'] ?? '';
+        unset($_SESSION['otp_error']);
+    
+        $viewer->assign('OTP_ERROR', $error);
 		$viewer->assign('ERROR', $error);
 		$viewer->assign('MESSAGE', $message);
 		$viewer->assign('MAIL_STATUS', $mailStatus);
