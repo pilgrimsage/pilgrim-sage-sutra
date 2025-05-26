@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:14:56
+/* Smarty version 4.5.5, created on 2025-05-21 17:45:56
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\ExtensionStore\Promotions.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_68299700b4a006_94438611',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e1154176c67_99374854',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9d8b4b8105cff1738a587bad7a60d4d68c334ea4' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\ExtensionStore\\Promotions.tpl',
-      1 => 1737727799,
+      1 => 1747849266,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68299700b4a006_94438611 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e1154176c67_99374854 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['HEADER_SCRIPTS']->value, 'SCRIPT');
 $_smarty_tpl->tpl_vars['SCRIPT']->do_else = true;
 if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['SCRIPT']->value) {

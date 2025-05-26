@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:20:36
+/* Smarty version 4.5.5, created on 2025-05-21 18:41:13
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\partials\Menubar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_68299854a43917_98697337',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e1e499f7b10_93275076',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '0901d356b6841db2426033307a7c5f7e92b12283' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\partials\\Menubar.tpl',
-      1 => 1737727800,
+      1 => 1747849267,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68299854a43917_98697337 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e1e499f7b10_93275076 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['MENU_STRUCTURE']->value) {
 $_smarty_tpl->_assignInScope('topMenus', $_smarty_tpl->tpl_vars['MENU_STRUCTURE']->value->getTop());
 $_smarty_tpl->_assignInScope('moreMenus', $_smarty_tpl->tpl_vars['MENU_STRUCTURE']->value->getMore());?>

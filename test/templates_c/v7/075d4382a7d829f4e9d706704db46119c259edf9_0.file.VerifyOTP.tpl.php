@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 18:25:25
+/* Smarty version 4.5.5, created on 2025-05-21 17:45:47
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Users\VerifyOTP.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_682a26154b0447_65651650',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e114ba4ab94_91969770',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '075d4382a7d829f4e9d706704db46119c259edf9' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Users\\VerifyOTP.tpl',
-      1 => 1747592712,
+      1 => 1747849267,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_682a26154b0447_65651650 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e114ba4ab94_91969770 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html><html><head><title>Vtiger</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link REL="SHORTCUT ICON" HREF="layouts/v7/skins/images/favicon.ico"><link rel="stylesheet" href="libraries/bootstrap-legacy/css/bootstrap.min.css" type="text/css" media="screen" /><link rel="stylesheet" href="resources/styles.css" type="text/css" media="screen" /><link rel="stylesheet" href="libraries/jquery/select2/select2.css" /><link rel="stylesheet" href="libraries/jquery/posabsolute-jQuery-Validation-Engine/css/validationEngine.jquery.css" /><?php echo '<script'; ?>
  type="text/javascript" src="libraries/jquery/jquery.min.js"><?php echo '</script'; ?>
 ><?php echo '<script'; ?>
