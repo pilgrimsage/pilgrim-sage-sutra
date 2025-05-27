@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 07:59:27
+/* Smarty version 4.5.5, created on 2025-05-21 18:00:22
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\Footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_6829935f44d290_93847939',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e14b6b70c62_28984764',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '304f2d986ea9f2b860030cf6e8d64beab8abae57' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\Footer.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6829935f44d290_93847939 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e14b6b70c62_28984764 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <footer class="app-footer">
 	<p>

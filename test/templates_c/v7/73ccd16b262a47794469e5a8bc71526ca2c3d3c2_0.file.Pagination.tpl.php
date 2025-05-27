@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:20:38
+/* Smarty version 4.5.5, created on 2025-05-21 18:02:47
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\Pagination.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_68299856e62d83_41858419',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e15475e2b78_08053881',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '73ccd16b262a47794469e5a8bc71526ca2c3d3c2' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\Pagination.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68299856e62d83_41858419 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e15475e2b78_08053881 (Smarty_Internal_Template $_smarty_tpl) {
 if (!$_smarty_tpl->tpl_vars['CLASS_VIEW_ACTION']->value) {?>
     <?php $_smarty_tpl->_assignInScope('CLASS_VIEW_ACTION', 'listViewActions');?>
     <?php $_smarty_tpl->_assignInScope('CLASS_VIEW_PAGING_INPUT', 'listViewPagingInput');?>

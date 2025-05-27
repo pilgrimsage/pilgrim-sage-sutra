@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:14:54
+/* Smarty version 4.5.5, created on 2025-05-21 18:02:27
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\dashboards\DashBoardTabContents.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_682996fe86e131_27269982',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e1533aa21c9_77023023',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '3aa26a23cbc209ded3561ea75e835624d7d00674' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\dashboards\\DashBoardTabContents.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_682996fe86e131_27269982 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e1533aa21c9_77023023 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class='dashBoardTabContainer'><?php $_smarty_tpl->_subTemplateRender(call_user_func_array($_smarty_tpl->registered_plugins[ 'modifier' ][ 'vtemplate_path' ][ 0 ], array( "dashboards/DashBoardHeader.tpl",$_smarty_tpl->tpl_vars['MODULE_NAME']->value )), $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('DASHBOARDHEADER_TITLE'=>vtranslate($_smarty_tpl->tpl_vars['MODULE']->value,$_smarty_tpl->tpl_vars['MODULE']->value)), 0, true);
 ?><br><div class="dashboardBanner"></div><div class="dashBoardTabContents clearfix"><div class="gridster_<?php echo $_smarty_tpl->tpl_vars['TABID']->value;?>
