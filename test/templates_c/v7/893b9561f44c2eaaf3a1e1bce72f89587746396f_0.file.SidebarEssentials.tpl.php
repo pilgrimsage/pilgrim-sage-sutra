@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:20:36
+/* Smarty version 4.5.5, created on 2025-05-21 18:02:42
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\partials\SidebarEssentials.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_68299854bd8a01_93489858',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e15428f7383_36491810',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '893b9561f44c2eaaf3a1e1bce72f89587746396f' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\partials\\SidebarEssentials.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68299854bd8a01_93489858 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e15428f7383_36491810 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 ?>
 <div class="sidebar-menu">

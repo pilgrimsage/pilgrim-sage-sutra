@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:20:36
+/* Smarty version 4.5.5, created on 2025-05-21 18:02:42
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\ListViewPreProcess.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_682998548596c4_82960098',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e154228a630_59754770',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1af1cbb05ec592a8e7cd8e3be3897179fb933d02' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\ListViewPreProcess.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:modules/Vtiger/partials/Topbar.tpl' => 1,
   ),
 ),false)) {
-function content_682998548596c4_82960098 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e154228a630_59754770 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:modules/Vtiger/partials/Topbar.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 

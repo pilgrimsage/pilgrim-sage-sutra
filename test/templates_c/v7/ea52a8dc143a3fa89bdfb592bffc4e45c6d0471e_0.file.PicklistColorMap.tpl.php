@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 08:20:38
+/* Smarty version 4.5.5, created on 2025-05-21 18:02:46
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\PicklistColorMap.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_68299856654406_56716262',
+  'version' => '4.5.5',
+  'unifunc' => 'content_682e15464c7784_39183826',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ea52a8dc143a3fa89bdfb592bffc4e45c6d0471e' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\PicklistColorMap.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68299856654406_56716262 (Smarty_Internal_Template $_smarty_tpl) {
+function content_682e15464c7784_39183826 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <style type="text/css">
     <?php

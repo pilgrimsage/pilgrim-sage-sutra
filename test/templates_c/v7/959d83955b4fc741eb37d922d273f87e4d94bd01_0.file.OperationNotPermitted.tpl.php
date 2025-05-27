@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.4, created on 2025-05-18 07:59:32
+/* Smarty version 4.5.5, created on 2025-05-25 10:29:49
   from 'C:\xampp\htdocs\pilgrim-sage-sutra\layouts\v7\modules\Vtiger\OperationNotPermitted.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.5.4',
-  'unifunc' => 'content_682993648bbd05_86980207',
+  'version' => '4.5.5',
+  'unifunc' => 'content_6832f11d709ba0_01826000',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '959d83955b4fc741eb37d922d273f87e4d94bd01' => 
     array (
       0 => 'C:\\xampp\\htdocs\\pilgrim-sage-sutra\\layouts\\v7\\modules\\Vtiger\\OperationNotPermitted.tpl',
-      1 => 1737727800,
+      1 => 1747850160,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_682993648bbd05_86980207 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6832f11d709ba0_01826000 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div style="margin:0 auto;width: 50em;">
 	<table border='0' cellpadding='5' cellspacing='0' height='600px' width="700px">
 	<tr><td align='center'>
