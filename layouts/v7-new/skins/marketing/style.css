@@ -63,6 +63,7 @@ body {
   font-style: normal;
   font-kerning: normal;
   height: inherit;
+  background-color: red;
 }
 body > .mCSB_inside > .mCSB_container {
   margin-right: 15px;
