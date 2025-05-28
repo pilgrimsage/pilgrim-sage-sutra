@@ -6,6 +6,7 @@
 /modules/Settings/Profiles/fields/
 /modules/Settings/Profiles/roles/
 logs/
+test/
 
 # Environment files (if any)
 .env
