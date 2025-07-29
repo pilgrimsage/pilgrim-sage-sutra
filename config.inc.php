@@ -66,7 +66,7 @@ $dbconfigoption['persistent'] = true;
 $dbconfigoption['autofree'] = false;
 
 // debug default value = 0
-$dbconfigoption['debug'] = 0;
+$dbconfigoption['debug'] = 1;
 
 // seqname_format default value = '%s_seq'
 $dbconfigoption['seqname_format'] = '%s_seq';
