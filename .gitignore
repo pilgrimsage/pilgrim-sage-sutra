@@ -15,6 +15,7 @@ test/
 
 # Temporary files
 /tmp/
+/test/
 
 # Database backups (if included)
 *.sql

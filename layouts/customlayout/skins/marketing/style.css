@@ -68,7 +68,7 @@ body > .mCSB_inside > .mCSB_container {
   margin-right: 15px;
 }
 #page {
-  padding-top: 84px;
+  padding-top: 0;
   height: inherit;
 }
 .select2-container .select2-choice {
@@ -459,8 +459,8 @@ body > .mCSB_inside > .mCSB_container {
   opacity: 1;
 }
 .app-switcher-container .navbar-toggle {
-  margin: 5px 0;
-  padding: 5px;
+  margin: 0 0;
+  padding: 0;
 }
 .app-switcher-container .navbar-toggle .icon-bar {
   background: #fff;
