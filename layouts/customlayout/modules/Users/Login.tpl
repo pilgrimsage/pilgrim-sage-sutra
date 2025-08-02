@@ -210,10 +210,10 @@
 	</style>
 
 	<span class="app-nav"></span>
-	<div class="container-fluid loginPageContainer">
+	<div class="container-fluid loginPageContainer d-flex">
 		<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
 			<div class="loginDiv widgetHeight">
-				<img class="img-responsive user-logo" src="layouts/v7/resources/Images/vtiger.png">
+				<img class="img-responsive user-logo d-block mx-auto" src="layouts/v7/resources/Images/vtiger.png">
 				<div>
 					<span class="{if !$OTP_ERROR}hide{/if} failureMessage" id="validationMessage">{$OTP_ERROR}</span>
 					<span class="{if !$ERROR}hide{/if} failureMessage" id="validationMessage">{$MESSAGE}</span>
@@ -273,11 +273,11 @@
 			</div>
 		</div>
 
-		<div class="col-lg-1 hidden-xs hidden-sm hidden-md">
+		<div class="col-lg-1 d-none d-xl-block">
 			<div class="separatorDiv"></div>
 		</div>
 
-		<div class="col-lg-5 hidden-xs hidden-sm hidden-md">
+		<div class="col-lg-5 d-none d-xl-block">
 			<div class="marketingDiv widgetHeight">
 				{if $JSON_DATA}
 					<div class="scrollContainer">
@@ -428,9 +428,9 @@
 					theme		: 'dark-thick',
 					setHeight	: '100%',
 					advanced	:	{
-										autoExpandHorizontalScroll:true,
-										setTop: 0
-									}
+						autoExpandHorizontalScroll:true,
+						setTop: 0
+					}
 				};
 				jQuery('.scrollContainer').mCustomScrollbar(params);
 			});
