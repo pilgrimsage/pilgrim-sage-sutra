@@ -9,9 +9,10 @@
 
 <footer class="app-footer">
 	<p>
-		Powered by vtiger CRM - {$VTIGER_VERSION}&nbsp;&nbsp;© 2004 - {date('Y')}&nbsp;&nbsp;
-		<a href="//www.vtiger.com" target="_blank">Vtiger</a>&nbsp;|&nbsp;
-		<a href="https://www.vtiger.com/privacy-policy" target="_blank">Privacy Policy</a>
+		{* Powered by vtiger CRM - {$VTIGER_VERSION}&nbsp;&nbsp;© 2004 - {date('Y')}&nbsp;&nbsp; *}
+		Powered by Echocrew - &nbsp;&nbsp;© 2025 - {date('Y')}&nbsp;&nbsp;
+		<a href="//www.echocrew.in" target="_blank">Echocrew</a>&nbsp;|&nbsp;
+		<a href="https://www.echocrew.in/pilgrim-sage-sutra/privacy-policy" target="_blank">Privacy Policy</a>
 	</p>
 </footer>
 </div>

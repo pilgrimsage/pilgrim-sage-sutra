@@ -48,7 +48,7 @@ $dbconfig['db_server'] = 'localhost';
 $dbconfig['db_port'] = ':3306';
 $dbconfig['db_username'] = 'root';
 $dbconfig['db_password'] = '';
-$dbconfig['db_name'] = 'vtiger_new_db';
+$dbconfig['db_name'] = 'pilgrim_sage_sutra_db';
 $dbconfig['db_type'] = 'mysqli';
 $dbconfig['db_status'] = 'true';
 

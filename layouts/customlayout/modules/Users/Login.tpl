@@ -9,19 +9,19 @@ vtiger. * All Rights Reserved.
 <link rel="stylesheet" href="layouts/customlayout/skins/users/login.css" />
 <span class="app-nav"></span>
 <div class="container-fluid loginPageContainer row g-3">
-  <div class="col-md-6">
+  <div class="col-12 col-lg-6">
     <div class="row">
       <div class="col-md-10 mx-auto">
         <div class="loginDiv widgetHeight p-3">
           <img
-            class="img-responsive user-logo d-block mx-auto"
-            src="layouts/v7/resources/Images/vtiger.png"
+            class="img-responsive img-fluid user-logo d-block mx-auto"
+            src="layouts/customlayout/resources/Images/custom-logo.svg"
           />
           <div class="group top-title mb-2">
             <h2 class="login-title">
               <strong><b>Login</b></strong>
             </h2>
-            <p>Access the CRMS panel using your email and passcode.</p>
+            <p>Access the CRM panel using your email and passcode.</p>
           </div>
           <div>
             <span
@@ -145,19 +145,19 @@ vtiger. * All Rights Reserved.
   <!-- <div class="col-lg-1 d-none d-xl-block">
 		<div class="separatorDiv"></div>
 	</div> -->
-  <div class="col-md-6 d-none d-xl-block">
+  <div class="col-lg-6 d-none d-lg-block">
     <div class="marketingDiv widgetHeight">
       <div class="scrollContainer">
         <div class="slider-div">
           <ul class="bxslider">
             <li class="slide">
-              <img src="layouts/customlayout/skins/users/register-bg.jpg" />
+              <img class="img-fluid" src="layouts/customlayout/skins/users/register-bg.jpg" />
             </li>
             <li class="slide">
-              <img src="layouts/customlayout/skins/users/forgot-bg.jpg" />
+              <img class="img-fluid" src="layouts/customlayout/skins/users/forgot-bg.jpg" />
             </li>
             <li class="slide">
-              <img src="layouts/customlayout/skins/users/login-bg.jpg" />
+              <img class="img-fluid" src="layouts/customlayout/skins/users/login-bg.jpg" />
             </li>
           </ul>
         </div>
