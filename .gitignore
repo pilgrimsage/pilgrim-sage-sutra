@@ -36,3 +36,6 @@ export/
 
 # Composer lock file (if not versioning the lock file)
 composer.lock
+
+# Config Files
+config.inc.php
